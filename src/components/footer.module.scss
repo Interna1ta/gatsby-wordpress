@@ -1,0 +1,9 @@
+.footer {
+    margin-top: 3rem;
+    padding-left: 120px;
+    padding-right: 120px;
+    @media (max-width: 767px){
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+}
